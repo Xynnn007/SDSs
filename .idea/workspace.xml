@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2fb50af-021b-4193-a798-8271c99f92b5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Client.go" beforeDir="false" afterPath="$PROJECT_DIR$/Client.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Master.go" beforeDir="false" afterPath="$PROJECT_DIR$/Master.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Worker.go" beforeDir="false" afterPath="$PROJECT_DIR$/Worker.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pb/Message.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/pb/Message.pb.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pb/Message.proto" beforeDir="false" afterPath="$PROJECT_DIR$/pb/Message.proto" afterDir="false" />
-    </list>
+    <list default="true" id="c2fb50af-021b-4193-a798-8271c99f92b5" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +11,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Worker.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Worker.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Worker.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
+            <state relative-caret-position="8">
               <caret line="241" column="5" lean-forward="true" selection-start-line="241" selection-start-column="5" selection-end-line="241" selection-end-column="5" />
               <folding>
                 <element signature="n#!!block;n#HandleConn#0" />
@@ -29,11 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Master.go" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Master.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Master.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+            <state relative-caret-position="331">
+              <caret line="50" column="34" lean-forward="true" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -41,7 +35,7 @@
       <file leaf-file-name="Client.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Client.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
+            <state relative-caret-position="1959">
               <caret line="167" column="36" lean-forward="true" selection-start-line="167" selection-start-column="36" selection-end-line="167" selection-end-column="36" />
               <folding>
                 <element signature="e#15#118#0" expanded="true" />
@@ -151,16 +145,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Master.go">
+    <entry file="file://$PROJECT_DIR$/Worker.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        <state relative-caret-position="8">
+          <caret line="241" column="5" lean-forward="true" selection-start-line="241" selection-start-column="5" selection-end-line="241" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!block;n#HandleConn#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Client.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
+        <state relative-caret-position="1959">
           <caret line="167" column="36" lean-forward="true" selection-start-line="167" selection-start-column="36" selection-end-line="167" selection-end-column="36" />
           <folding>
             <element signature="e#15#118#0" expanded="true" />
@@ -168,13 +165,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Worker.go">
+    <entry file="file://$PROJECT_DIR$/Master.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="241" column="5" lean-forward="true" selection-start-line="241" selection-start-column="5" selection-end-line="241" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!block;n#HandleConn#0" />
-          </folding>
+        <state relative-caret-position="331">
+          <caret line="50" column="34" lean-forward="true" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
         </state>
       </provider>
     </entry>
